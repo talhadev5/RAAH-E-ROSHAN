@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "379002763174",
+    "project_id": "raaheroshan-3ec41",
+    "storage_bucket": "raaheroshan-3ec41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379002763174:android:f52e8ec300802dce5f8167",
+        "android_client_info": {
+          "package_name": "com.example.raah_e_roshan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379002763174-fuijt55q69d6kqvldkpe5d9v7hf572lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ySAnmt6bkmebtxSBgGHsHjm1IWMndH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379002763174-fuijt55q69d6kqvldkpe5d9v7hf572lt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379002763174-4hrcc0lj7jt3u84efdstdsfa0ju9vd1c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.raahERoshan.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
